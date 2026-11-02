@@ -11,8 +11,6 @@
 
 <br/>
 
-[View Demo](#) · [Report Bug](#) · [Request Feature](#)
-
 </div>
 
 ---
